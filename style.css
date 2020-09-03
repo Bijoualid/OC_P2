@@ -1,0 +1,183 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+
+h1 {
+    text-transform: uppercase;
+    font-size: calc(2vw + 20px);
+    font-weight: 100;
+    margin-bottom: 0;
+}
+
+
+h2 {
+    text-transform: uppercase;
+    font-size: 1.8rem;
+    font-weight: 500;
+    margin-left: 15px;
+    margin-top: 0;
+}
+
+
+h3 {
+    text-transform: uppercase;
+    font-size: calc(0.6vw + 16px);
+    font-weight: 400;
+    margin-top: 15px;
+}
+
+
+h4 {
+    color: #4a4a4a;
+    font-size: 1.6rem;
+    font-weight: 400;
+    text-transform: uppercase;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+
+h5 {
+    font-size: 1rem;
+    margin-top: 9px;
+    margin-bottom: 9px;
+    color: #565656;
+    font-weight: bold;
+}
+
+
+i {
+    color: #feca07;
+}
+
+
+img {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+
+
+header span {
+    color: #feca07;
+    font-weight: 500;
+}
+
+
+.fas {
+    font-size: 2.1rem;
+}
+
+
+.fa {
+    color: white;
+}
+
+
+.bloc_page {
+    width: 50vw;
+    margin: auto;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+
+.CV {
+    flex: 2;
+    margin-left: 60px;;
+}
+
+
+section {
+    margin-top: 70px;
+}
+
+
+.rubrique_title {
+    display: flex;
+    border-bottom: solid 2px #feca07;
+}
+
+
+.rubrique_content {
+    margin-top: 45px;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.date {
+    display: flex;
+}
+
+
+.date_info {
+    width: 50%;
+}
+
+
+.date p {
+    margin-top: 0;
+    margin-left: 15px;
+}
+
+
+.recommandation {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.recommended_by {
+    font-weight: 500;
+}
+
+
+.about {
+    flex: 1;
+    background-color: #feca07;
+    text-align: center;
+    padding-top: 50px;
+}
+
+
+.about_section {
+    text-align: left;
+    padding: 10px 8px 30px 25px;
+}
+
+
+.about_title {
+    background-color: #404040;
+    color: #feca07;
+    font-size: 1.3rem;
+    font-weight: bold;
+    padding: 5px;
+}
+
+
+.loisir {
+    padding-top: 100%;
+}
+
+
+.icon_loisirs {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 30px;
+}
+
+
+.bold_text {
+    color: #4a4a4a;
+    font-weight: 500;
+}
+
+
+.lighter_text {
+    color: #565656;
+}
+
+
