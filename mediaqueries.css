@@ -10,7 +10,7 @@
 
 
     h2 {
-        font-size: 1.5rem;
+        font-size: 1.3rem;
     }
 
 
@@ -26,6 +26,11 @@
 
     .loisir {
         padding-top: 0%;
+    }
+
+
+    .date p {
+        margin-left: 5px;
     }
 
 
